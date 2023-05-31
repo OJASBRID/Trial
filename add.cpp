@@ -4,5 +4,6 @@ int main()
 {
     int a= 3;
     int b = 4;
-    std::cout<<(a + b);
+    int change = 62;
+    std::cout<<(a + b + change);
 }
